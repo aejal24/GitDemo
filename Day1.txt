@@ -1,1 +1,2 @@
-Day1 Updates
+git config --global user.email "aejal.solanki@gmail.com"
+git config --global user.name "aejal24"
